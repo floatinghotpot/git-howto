@@ -40,7 +40,7 @@ git是一个分布式代码库管理工具，是继sourcesafe, cvs, clearcase, s
 
 1、TortoiseGit 及 语言包。
 
-2、Git for Windows （也叫做msysgit）
+2、Git for Windows （也叫做msysgit）, 安装的时候不需要 选 "Windows explorer integration"， 这个事情由 TortoiseGit 来做。
 
  
 
