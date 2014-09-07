@@ -20,11 +20,11 @@ git是一个分布式代码库管理工具，是继sourcesafe, cvs, clearcase, s
 
 右键弹出菜单：
 
-![Git Menu](git-menu.png)
+![Git Menu](img/git-menu.png)
 
 提交界面：
 
-![Git Commit](git-commit.png)
+![Git Commit](img/git-commit.png)
 
 官网：https://code.google.com/p/tortoisegit/
 
@@ -32,9 +32,7 @@ git是一个分布式代码库管理工具，是继sourcesafe, cvs, clearcase, s
 
 需要：Git for Windows 1.7.10 or above is also required for TortoiseGit (recommended order: install TortoiseGit first).
 
-如果是在天朝，几乎所有的google.com 都被伟(wan)大(e)的防火长城墙掉了，可以下载我下载过来的版本（包括语言包）。
-
-http://home.rjfun.com/downloads/windows/
+如果是在天朝，几乎所有的google.com 都被伟(wan)大(e)的防火长城墙掉了，可以[下载这里的镜像版本（包括语言包）](windows/)。
 
 根据你的机器是32位还是64位，选择相应的版本。安装顺序：
 
