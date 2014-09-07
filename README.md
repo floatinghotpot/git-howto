@@ -1,4 +1,6 @@
-# tortoisegit – 使用 git 的图形化客户端 #
+# tortoisegit #
+
+## Windows 用户使用 git 的图形化客户端 ##
 
 git是一个分布式代码库管理工具，是继sourcesafe, cvs, clearcase, svn 之后的最佳选择。
 
@@ -14,6 +16,8 @@ git是一个分布式代码库管理工具，是继sourcesafe, cvs, clearcase, s
 
 幸运的是，TortoiseSVN有一个双胞胎弟弟，叫TortoiseGit。说它是双胞胎弟弟，是因为它的界面和TortoiseSVN基本上一样。实际上，TortoiseGit 就是从 TortoiseSVN 移植过来的一个客户端。
 
+## 界面 ##
+
 右键弹出菜单：
 
 ![Git Menu](img/git-menu.png)
@@ -21,6 +25,8 @@ git是一个分布式代码库管理工具，是继sourcesafe, cvs, clearcase, s
 提交界面：
 
 ![Git Commit](img/git-commit.png)
+
+## 下载和安装 ##
 
 官网：https://code.google.com/p/tortoisegit/
 
