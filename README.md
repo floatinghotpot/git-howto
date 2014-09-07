@@ -30,9 +30,9 @@ git是一个分布式代码库管理工具，是继sourcesafe, cvs, clearcase, s
 
 下载页面：https://code.google.com/p/tortoisegit/wiki/Download
 
-需要：Git for Windows 1.7.10 or above is also required for TortoiseGit (recommended order: install TortoiseGit first).
+需要：Git for Windows 1.7.10 or above (安装顺序: 先安装 TortoiseGit ).
 
-如果是在天朝，几乎所有的google.com 都被伟(wan)大(e)的防火长城墙掉了，可以[下载这里的镜像版本（包括语言包）](windows/)。
+如果是在天朝，几乎所有的google.com 都被伟(WAN)大(E)的*墙*掉*了*，可以[下载这里的镜像版本（包括语言包）](windows/)。
 
 根据你的机器是32位还是64位，选择相应的版本。安装顺序：
 
